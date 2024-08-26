@@ -1,7 +1,10 @@
+{
 START
 // Input/Output
 INPUT number1
-// variables and Initialization]
+INPUT number2
+INPUT number3
+// variables and Initialization
 SET R to 0
 // Process Steps
 SET R to Number/5
@@ -10,3 +13,4 @@ IF R=0
 PRINT “number is multiple of 5.”
 ELSE 
 PRINT “number is not a multiple of 5.”
+}
